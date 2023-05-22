@@ -1,6 +1,6 @@
 Flask==1.0.2
 gunicorn==19.9.0
-requests==2.22.0
+requests==2.31.0
 request==2019.4.13
 jsonify==0.5
 python-twitter==3.5
